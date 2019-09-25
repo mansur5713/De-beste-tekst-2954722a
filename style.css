@@ -4,4 +4,10 @@ h1 {
 
 li {
 	color: red;
+	font-size: 2em;
+}
+
+html {
+	background-color: purple
+	;
 }
